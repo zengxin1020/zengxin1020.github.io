@@ -11,9 +11,9 @@ QQ：785255102
 
 研究方向：深度学习、计算机视觉、模式识别
 
-邮箱1：iexzeng@gs.zzu.edu.cn
+邮箱①：iexzeng@gs.zzu.edu.cn
 
-邮箱2：work.xzeng@gmail.com
+邮箱②：work.xzeng@gmail.com
 
 地址：河南省郑州市高新区科学大道100号郑州大学
 
