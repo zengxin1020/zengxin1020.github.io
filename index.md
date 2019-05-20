@@ -8,7 +8,7 @@
       <p><b>地址：河南省郑州市高新技术开发区科学大道100号郑州大学新校区，邮编：450000</b></p>
     </td>
     <td width="25%">
-      <img src="/zx.jpg" width="100%">      % 插入证件照代码
+      <img src="/zx.jpg" width="100%">
     </td>
   </tr>
 </table>
