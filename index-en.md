@@ -41,11 +41,13 @@ Office：[Data Mining & Machine Learning Laboratory,School of Information Engine
 # Computer Skills
 
 - Basic Knowledge
+
 Java, C, HTML, CSS, JS,
 Pytorch, Keras,
 Tensorflow
 
 - Intermediate Knowledge
+
 Python, Matlab,
 Office, Linux,
 Microsoft Windows,
