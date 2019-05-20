@@ -42,9 +42,9 @@ QQ：785255102
 
 # 个人能力
 
-- 熟练掌握HTML,CSS,JS,XML等知识
-- 熟练使用Python,Matlab等编程
-- 熟练掌握Pytorch,Tensorflow,Keras等框架
+- 熟练掌握HTML，CSS，JS等知识
+- 熟练使用Python，Matlab等编程
+- 熟练掌握Pytorch，Tensorflow，Keras等框架
 - Linux系统常用命令和基本操作
  
 
