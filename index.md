@@ -1,21 +1,23 @@
-# 欢迎来到兜哥主页
 
- ![头像](img/2.jpeg)
+
+ ![头像](zx.jpg)
 
 # 个人简介
 
-兜哥，百度安全实验室AI安全负责人，具有10余年安全从业经历，曾任百度基础架构安全负责人，web安全产品线负责人。畅销AI安全书籍《web安全之机器学习入门》《web安全之深度学习实战》《web安全之强化学习与GAN》作者。Freebuf、雷锋网、安全客特邀专栏作家。知名安全自媒体"兜哥带你学安全"主编。
+\address{郑州大学}{河南省, 郑州市 450001}
+\phone[mobile]{(+86)~155-1551-1298}
+\email{iexzeng@gs.zzu.edu.cn/work.xzeng@gmail.com}
+\homepage{QQ：785255102}
 
-Liu Yan（兜哥），Head of AI security team of Baidu Xlab , Famous technology writer of《machine learning for the web security》，《deep learning for the web security》,《reinforcement learning and GANs for the web security》
 
-# 主要采访
+# 教育背景
 
  - [安全大咖兜哥：机器学习为网络安全推开一扇窗](http://dy.163.com/v2/article/detail/DK1QRM9U0511DM95.html)
  - [人物- 兜哥：兜哥和他的AI安全三部曲](http://dy.163.com/v2/article/detail/DK1QRM9U0511DM95.html)
  - [兜哥丛书 Web安全系列 AI安全的攻与防](https://www.anquanke.com/subject/id/102542)
  
 
-# 主要会议演讲
+# 项目经历
 
 
 - [OWASP 2016 《Cloud-ids：智能Web入侵检测与威胁感知》](http://www.owasp.org.cn/OWASP_Conference/owasp-2016/jb/)
@@ -31,50 +33,40 @@ Liu Yan（兜哥），Head of AI security team of Baidu Xlab , Famous technology
 - [Defcon China 2019  Face Swapping Video Detection with CNN ](https://www.defcon.org/html/dc-china-1/dc-cn-1-speakers.html) 
 
 
-# 主要作品
+# 个人能力
 
 ## 《web安全之机器学习入门》
- 
- ![book1](img/book1.jpg)
+
  
 ## 《web安全之深度学习实战》 
-  ![book2](img/book2.jpg)
+
  
 ## 《web安全之强化学习与GAN》
  
-  ![book3](img/book3.jpg)
+
  
 ## 《企业安全建设入门:基于开源软件打造企业网络安全》
  
-  ![book4](img/book4.jpg)
+
  
 
-# 主要开源项目
- 
-## AdvBox
- 
- ![logo](img/logo1.png)
- 
- [https://github.com/baidu/AdvBox](https://github.com/baidu/AdvBox)
- 
-## OpenRASP
+# 荣誉奖励
+-郑州大学第四届研究生创新创业大赛二等奖（2019.04）
+-郑州大学第一届研究生智慧城市技术与创意设计大赛二等奖（2019.04）
+-郑州大学第三届研究生电子设计竞赛三等奖（2019.04）
+-郑州大学三好研究生（2018.12）
+-硕士研究生学业奖学金（2018.11）
+-郑州大学第三届研究生创新创业大赛三等奖（2018.05）
+-硕士研究生学业奖学金（2017.11）
+-郑州大学优秀学生奖学金一等奖（2017.06）
+-郑州大学三好学生（2016.12）
+-郑州大学优秀学生奖学金一等奖（2016.12）
+-郑州大学社会服务先进个人（2016.12）
+-郑州大学优秀青年志愿者（2016.05）
+-郑州大学优秀学生奖学金二等奖（2015.12）
+-郑州大学三好学生（2015.12）
+-郑州大学优秀学生奖学金三等奖（2014.11）
 
- [https://github.com/baidu/openrasp](https://github.com/baidu/openrasp) 
 
-# 微信公众号
 
-兜哥带你学安全
-
-![qrcode](img/qrcode.jpg)
-
-# 主要专利
-
-- CN201910138054.7
-- CN201910138706.7
-- CN201910187998.3
-- CN201910189445.1
-- CN201910189316.2
-- CN201910204167.2
-- CN201910204138.6
-- CN201910140315.9
 
