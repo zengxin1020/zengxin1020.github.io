@@ -1,6 +1,6 @@
 
-
- ![头像](zx.jpg=400x300)
+<img src="zx.jpg" width="500" hegiht="313" align=center />
+ ![头像](zx.jpg =400x300)
 
 # 个人简介
 
