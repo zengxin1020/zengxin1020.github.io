@@ -10,13 +10,12 @@
       <p><b>邮箱2：work.xzeng@gmail.com</b></p>
     </td>
     <td width="25%">
-      <img src="/zx.jpg" width="100%">
+      <img src="/zx.jpg" width="75%">
     </td>
   </tr>
 </table>
 </div>
 
----
 
 ###研究方向
 
