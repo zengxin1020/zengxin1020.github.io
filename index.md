@@ -4,23 +4,27 @@
 
 # 个人简介
 
-\address{郑州大学}{河南省, 郑州市 450001}
-\phone[mobile]{(+86)~155-1551-1298}
-\email{iexzeng@gs.zzu.edu.cn/work.xzeng@gmail.com}
-\homepage{QQ：785255102}
+郑州大学，河南省, 郑州市 450001
+
+邮箱：iexzeng@gs.zzu.edu.cn
+
+邮箱：work.xzeng@gmail.com
+
+QQ：785255102
 
 
 # 教育背景
 
- - [安全大咖兜哥：机器学习为网络安全推开一扇窗](http://dy.163.com/v2/article/detail/DK1QRM9U0511DM95.html)
- - [人物- 兜哥：兜哥和他的AI安全三部曲](http://dy.163.com/v2/article/detail/DK1QRM9U0511DM95.html)
- - [兜哥丛书 Web安全系列 AI安全的攻与防](https://www.anquanke.com/subject/id/102542)
+
+- 2013---2017，计算机科学与技术，郑州大学，本科，绩点: 3.1/4.0
+
+- 2017---至今，软件工程，郑州大学，硕士研究生，绩点: 3.99/5
  
 
 # 项目经历
 
 
-- 国家重点研发计划————先进轨道交通重点专项
+- 国家重点研发计划——先进轨道交通重点专项
 
 高速铁路成网条件下铁路综合效能与服务水平提升技术（2018YFB1201403）
 
