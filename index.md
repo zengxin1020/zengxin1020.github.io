@@ -1,5 +1,5 @@
 
-<img src="zx.jpg" width="60" hegiht="70" align=center />
+<img src="zx.jpg" width="120" hegiht="140" align=center />
 
 # 个人简介
 
