@@ -3,7 +3,7 @@
 
 <a href="/index.html">Chinese Version</a>
 
-# 基本信息
+# Basic Resume
 
 Name：Xin Zeng
 
@@ -17,9 +17,9 @@ E-mail①：iexzeng@gs.zzu.edu.cn
 
 E-mail②：work.xzeng@gmail.com
 
-Address：河南省郑州市高新区科学大道100号郑州大学
+Address：Zhengzhou University, No.100 Science Avenue, Zhengzhou, Henan
 
-Office：[郑州大学信息工程学院数据挖掘与机器学习研究室](http://www5.zzu.edu.cn/mlis/)
+Office：[Data Mining & Machine Learning Laboratory,School of Information Engineering, Zhengzhou University](http://www5.zzu.edu.cn/mlis/)
 
 
 
@@ -41,15 +41,15 @@ Office：[郑州大学信息工程学院数据挖掘与机器学习研究室](ht
 # Computer Skills
 
 - Basic Knowledge
-	java, c, html, css, js,
-	Pytorch, Keras,
-  Tensorflow
+Java, C, HTML, CSS, JS,
+Pytorch, Keras,
+Tensorflow
 
 - Intermediate Knowledge
-  python, matlab,
-	Office, Linux,
-	Microsoft Windows,
-	Visio, Latex
+Python, Matlab,
+Office, Linux,
+Microsoft Windows,
+Visio, Latex
 
 
 # Honors and Awards
