@@ -20,32 +20,21 @@
 # 项目经历
 
 
-- [OWASP 2016 《Cloud-ids：智能Web入侵检测与威胁感知》](http://www.owasp.org.cn/OWASP_Conference/owasp-2016/jb/)
-- [中国电子信息技术年会 2017 《骨干网大规模DDoS智能检测与对抗》](http://news.ifeng.com/a/20170802/51550518_0.shtml)
-- [SSC 2017 《智能检测与响应系统实践》](https://doc.huodongjia.com/detail-6885.html)
-- [FIT 2018 《强化学习在Web安全领域的应用探索》](http://www.freebuf.com/news/153504.html)
-- [中国安卓开发者大会 2018 《AI模型的脆弱性以及常见攻击方法》](https://new.qq.com/omn/20180713/20180713A1CZM4.html)
-- [中国人工智能移动安全高峰论坛 2018 《AI时代的攻与防》](http://www.isc.org.cn/zxzx/xhdt/listinfo-36079.html)
-- [ISC 2018 《深度学习模型的脆弱性检测与加固》](http://www.ctoutiao.com/955145.html)
-- [第二届电子数据取证前瞻技术高端论坛 《感知欺骗：基于深度神经网络（DNN）下物理性对抗攻击与策略》](http://www.sohu.com/a/290379636_100012570)
-- [网络安全国际(InForSec)四大会议论文分享及产学对话 《感知欺骗：基于深度神经网络（DNN）下物理性对抗攻击与策略》](http://www.inforsec.org/wp/?p=2949)
-- [Defcon China 2019  Transferability of Adversarial Examples to Attack Cloud-based Image Classifier Service](https://www.defcon.org/html/dc-china-1/dc-cn-1-speakers.html) 
-- [Defcon China 2019  Face Swapping Video Detection with CNN ](https://www.defcon.org/html/dc-china-1/dc-cn-1-speakers.html) 
+- 国家重点研发计划“先进轨道交通”重点专项
+高速铁路成网条件下铁路综合效能与服务水平提升技术（2018YFB1201403）
+
+- 国家自然科学基金项目
+传播IB方法的研究（61772475）
+
+
 
 
 # 个人能力
 
-## 《web安全之机器学习入门》
-
- 
-## 《web安全之深度学习实战》 
-
- 
-## 《web安全之强化学习与GAN》
- 
-
- 
-## 《企业安全建设入门:基于开源软件打造企业网络安全》
+- 熟练掌握HTML,CSS,JS,XML等知识
+- 熟练使用Python,Matlab等编程
+- 熟练掌握Pytorch,Tensorflow,Keras等框架
+- Linux系统常用命令和基本操作
  
 
  
