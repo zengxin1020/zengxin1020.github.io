@@ -55,6 +55,7 @@ Visio, Latex
 
 
 # Honors and Awards
+- The 2nd prize of the 1st Graduate AI Innovation Competition of Zhengzhou University（2019.06）
 - The 2nd prize of the 4th Graduate Innovation and Entrepreneurship Competition of Zhengzhou University（2019.04）
 - The 2nd prize of the 1st Graduate Contest on Smart-city Technology and Creative Design of Zhengzhou University（2019.04）
 - The 3rd prize of the 3rd Graduate Electronics Design Contest of Zhengzhou University（2019.04）
