@@ -13,9 +13,9 @@ Birthday：Oct.,1994
 
 Research Interests：Deep Learning、Computer Vision、Pattern Recognition
 
-E-mail①：iexzeng@gs.zzu.edu.cn
+E-mail①：work.xzeng@gmail.com
 
-E-mail②：work.xzeng@gmail.com
+E-mail②：iexzeng@126.com
 
 Address：Zhengzhou University, No.100 Science Avenue, Zhengzhou, Henan
 
@@ -25,7 +25,7 @@ Office：[Data Mining & Machine Learning Laboratory,School of Information Engine
 
 # Education
 
-- 2017---Now，Software Engineering，Zhengzhou University，M.Sc. candidate，GPA: 3.99/5，Supervisor：[Yangdong Ye Prof](http://www5.zzu.edu.cn/mlis/)
+- 2017---2020，Software Engineering，Zhengzhou University，M.Sc. candidate，GPA: 3.99/5，Supervisor：[Yangdong Ye Prof](http://www5.zzu.edu.cn/mlis/)
 
 - 2013---2017，Computer Science \& Technology，Zhengzhou University，B.Eng，GPA: 3.1/4.0
  
