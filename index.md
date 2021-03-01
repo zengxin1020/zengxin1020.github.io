@@ -70,4 +70,16 @@ QQ：785255102
 - 郑州大学三好学生（2015.12）
 - 郑州大学优秀学生奖学金三等奖（2014.11）
 
+# 发表论文
 
+- **Xin Zeng**, Yunpeng Wu, Shizhe Hu, Ruobin Wang and Yangdong Ye.
+DSPNet: Deep Scale Purifier Network for Dense Crowd Counting.
+Expert Systems With Applications. 141 (2020). 
+
+- Qiang Guo, **Xin Zeng**, Shizhe Hu, Sonephet Phoummixay and Yangdong Ye.
+Learning a Deep Network with Cross-hierarchy Aggregation for Crowd Counting.
+Knowledge-Based Systems. 213 (2020).
+
+- Gaoyi Zhu, **Xin Zeng**, Xiangjie Jin and Jun Zhang. 
+Metro Passengers Counting and Density Estimation via Multi-Style Convolution Neural Network. 
+Knowledge and Information Systems, (2021) Accepted.
