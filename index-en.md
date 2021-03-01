@@ -7,8 +7,6 @@
 
 Name：Xin Zeng
 
-QQ：785255102
-
 Birthday：Oct.,1994
 
 Research Interests：Deep Learning、Computer Vision、Pattern Recognition
@@ -36,7 +34,7 @@ Office：[Data Mining & Machine Learning Laboratory,School of Information Engine
 
 - National Natural Science Foundation of China (Grant No. 61772475)
 
-
+- National Natural Science Foundation of China (Grant No. 62002330)
 
 # Computer Skills
 
