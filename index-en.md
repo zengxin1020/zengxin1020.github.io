@@ -55,6 +55,8 @@ Visio, Latex
 
 
 # Honors and Awards
+- Outstanding Graduate of Zhengzhou University（2020.05）
+- Graduate Student Merit Awards for Outstanding Achievement（2019.11）
 - The 2nd prize of the 1st Graduate AI Innovation Competition of Zhengzhou University（2019.06）
 - The 2nd prize of the 4th Graduate Innovation and Entrepreneurship Competition of Zhengzhou University（2019.04）
 - The 2nd prize of the 1st Graduate Contest on Smart-city Technology and Creative Design of Zhengzhou University（2019.04）
@@ -73,4 +75,16 @@ Visio, Latex
 - Scholarship for Excellent Student of Zhengzhou University（2014.11）
 
 
+# Publications
 
+- **Xin Zeng**, Yunpeng Wu, Shizhe Hu, Ruobin Wang and Yangdong Ye.
+DSPNet: Deep Scale Purifier Network for Dense Crowd Counting.
+Expert Systems With Applications, 2019, JCR Rank Q1, impact factor:5.452
+
+- Qiang Guo, **Xin Zeng**, Shizhe Hu, Sonephet Phoummixay and Yangdong Ye.
+Learning a Deep Network with Cross-hierarchy Aggregation for Crowd Counting.
+Knowledge-Based Systems, 2020, JCR Rank Q1, impact factor:5.921
+
+- Gaoyi Zhu, **Xin Zeng**, Xiangjie Jin and Jun Zhang. 
+Metro Passengers Counting and Density Estimation via Multi-Style Convolution Neural Network. 
+Knowledge and Information Systems, 2021, JCR Rank Q2, impact factor:2.936
