@@ -78,13 +78,19 @@ Visio, Latex
 # Publications
 
 - **Xin Zeng**, Yunpeng Wu, Shizhe Hu, Ruobin Wang and Yangdong Ye.
+
 DSPNet: Deep Scale Purifier Network for Dense Crowd Counting.
+
 Expert Systems With Applications, 2019, JCR Rank Q1, impact factor:5.452
 
 - Qiang Guo, **Xin Zeng**, Shizhe Hu, Sonephet Phoummixay and Yangdong Ye.
+
 Learning a Deep Network with Cross-hierarchy Aggregation for Crowd Counting.
+
 Knowledge-Based Systems, 2020, JCR Rank Q1, impact factor:5.921
 
 - Gaoyi Zhu, **Xin Zeng**, Xiangjie Jin and Jun Zhang. 
+
 Metro Passengers Counting and Density Estimation via Multi-Style Convolution Neural Network. 
+
 Knowledge and Information Systems, 2021, JCR Rank Q2, impact factor:2.936
