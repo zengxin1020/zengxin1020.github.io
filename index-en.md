@@ -1,7 +1,7 @@
 
 ![](zx.jpg)
 
-<a href="/index.html">Chinese Version</a>
+<a href="https://zengxin1020.github.io/">Chinese Version</a>
 
 # Basic Resume
 
