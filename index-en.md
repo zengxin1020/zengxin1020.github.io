@@ -53,6 +53,7 @@ Visio, Latex
 
 
 # Honors and Awards
+- Excellent Master Dissertation of Henan Province（2021.07）
 - Outstanding Graduate of Zhengzhou University（2020.05）
 - Graduate Student Merit Awards for Outstanding Achievement（2019.11）
 - The 2nd prize of the 1st Graduate AI Innovation Competition of Zhengzhou University（2019.06）
@@ -79,16 +80,22 @@ Visio, Latex
 
 DSPNet: Deep Scale Purifier Network for Dense Crowd Counting.
 
-Expert Systems With Applications, 2019, JCR Rank Q1, impact factor:5.452
+Expert Systems With Applications, 2019, JCR Rank Q1, impact factor:6.954
 
 - Qiang Guo, **Xin Zeng**, Shizhe Hu, Sonephet Phoummixay and Yangdong Ye.
 
 Learning a Deep Network with Cross-hierarchy Aggregation for Crowd Counting.
 
-Knowledge-Based Systems, 2020, JCR Rank Q1, impact factor:5.921
+Knowledge-Based Systems, 2020, JCR Rank Q1, impact factor:8.038
 
 - Gaoyi Zhu, **Xin Zeng**, Xiangjie Jin and Jun Zhang. 
 
 Metro Passengers Counting and Density Estimation via Multi-Style Convolution Neural Network. 
 
-Knowledge and Information Systems, 2021, JCR Rank Q2, impact factor:2.936
+Knowledge and Information Systems, 2021, JCR Rank Q2, impact factor:2.822
+
+- **Xin Zeng**, Qiang Guo, Haoran Duan and Yunpeng Wu. 
+
+Multi-level Features Extraction Network with Gating Mechanism for Crowd Counting. 
+
+IET Image Processing, 2021, JCR Rank Q3, impact factor:2.373
