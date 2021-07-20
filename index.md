@@ -1,7 +1,7 @@
 
 ![](zx.jpg)
 
-<a href="/index-en.html">English Version</a>
+<a href="https://zengxin1020.github.io/index-en.html">English Version</a>
 
 # 基本信息
 
