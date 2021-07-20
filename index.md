@@ -45,6 +45,7 @@
 
 
 # 荣誉奖励
+- 河南省优秀硕士学位论文（2021.7）
 - 郑州大学校级优秀学位论文（2020.12）
 - 郑州大学优秀毕业生（2020.05）
 - 郑州大学研究生优秀成果奖（2019.11）
@@ -74,16 +75,22 @@
 
 DSPNet: Deep Scale Purifier Network for Dense Crowd Counting.
 
-Expert Systems With Applications, 2019, JCR 1区, 影响因子:5.452
+Expert Systems With Applications, 2019, JCR 1区, 影响因子:6.954
 
 - Qiang Guo, **Xin Zeng**, Shizhe Hu, Sonephet Phoummixay and Yangdong Ye.
 
 Learning a Deep Network with Cross-hierarchy Aggregation for Crowd Counting.
 
-Knowledge-Based Systems, 2020, JCR 1区, 影响因子:5.921
+Knowledge-Based Systems, 2020, JCR 1区, 影响因子:8.038
 
 - Gaoyi Zhu, **Xin Zeng**, Xiangjie Jin and Jun Zhang. 
 
 Metro Passengers Counting and Density Estimation via Multi-Style Convolution Neural Network. 
 
-Knowledge and Information Systems, 2021, JCR 2区, 影响因子:2.936
+Knowledge and Information Systems, 2021, JCR 2区, 影响因子:2.822
+
+- **Xin Zeng**, Qiang Guo, Haoran Duan and Yunpeng Wu. 
+
+Multi-level Features Extraction Network with Gating Mechanism for Crowd Counting. 
+
+IET Image Processing, 2021, JCR 3区, 影响因子:2.373
