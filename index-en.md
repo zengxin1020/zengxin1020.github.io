@@ -90,6 +90,7 @@ IET Image Processing, 2021, JCR Rank Q3, impact factor:2.373
 
 # Computer Skills
 - Intermediate Knowledge
+
 Python, Matlab,
 Office, Linux,
 Microsoft Windows,
