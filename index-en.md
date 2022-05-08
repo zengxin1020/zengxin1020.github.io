@@ -27,7 +27,7 @@ Office：[Data Mining & Machine Learning Laboratory,School of Information Engine
 
 - 2013---2017，Computer Science \& Technology，Zhengzhou University，B.Eng，GPA: 3.1/4.0
  
- # Publications
+# Publications
 - **Xin Zeng**, Yunpeng Wu, Shizhe Hu, Ruobin Wang and Yangdong Ye.
 
 DSPNet: Deep Scale Purifier Network for Dense Crowd Counting.
@@ -60,6 +60,8 @@ IET Image Processing, 2021, JCR Rank Q3, impact factor:2.373
 
 - National Natural Science Foundation of China (Grant No. 62002330)
 
+- Key Scientific Research Project of He'nan Provincial Higher Education Institutions (Grant No. 22B520032)
+
 # Academic Activities
 - Reviewer for Journals: ACM TKDD, CUIV, Neurocomputing, CSBJ, JEI.
 
@@ -86,12 +88,3 @@ IET Image Processing, 2021, JCR Rank Q3, impact factor:2.373
 - Merit Student of Zhengzhou University（2015.12）
 - Scholarship for Excellent Student of Zhengzhou University（2014.11）
 
-
-
-# Computer Skills
-- Intermediate Knowledge
-
-Python, Matlab,
-Office, Linux,
-Microsoft Windows,
-Visio, Latex
