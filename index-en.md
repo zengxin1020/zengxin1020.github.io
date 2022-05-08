@@ -64,11 +64,13 @@ IET Image Processing, 2021, JCR Rank Q3, impact factor:2.373
 - Key Scientific Research Project of He'nan Provincial Higher Education Institutions (Grant No. 22B520032)
 
 # Academic Activities
+
 - Reviewer for Journals: ACM TKDD, CUIV, Neurocomputing, CSBJ, JEI.
 
 - Programme Committee in the Conference: CSAE 2020/2021, MICE2020.
 
 # Honors and Awards
+
 - Excellent Master Dissertation of Henan Province（2021.07）
 - Outstanding Graduate of Zhengzhou University（2020.05）
 - Graduate Student Merit Awards for Outstanding Achievement（2019.11）
