@@ -28,6 +28,7 @@ Office：[Data Mining & Machine Learning Laboratory,School of Information Engine
 - 2013---2017，Computer Science \& Technology，Zhengzhou University，B.Eng，GPA: 3.1/4.0
  
 # Publications
+
 - **Xin Zeng**, Yunpeng Wu, Shizhe Hu, Ruobin Wang and Yangdong Ye.
 
 DSPNet: Deep Scale Purifier Network for Dense Crowd Counting.
