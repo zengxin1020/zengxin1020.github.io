@@ -57,6 +57,11 @@ IET Image Processing, 2021, JCR 3区, 影响因子:2.373
 
 视频中复杂交互集体行为识别及语义分析研究（62002330）
 
+- 河南省高等学校重点科研项目计划
+
+****** 应用研究（22B520032）
+
+
 # 学术活动
 - Reviewer for Journals: ACM TKDD, CUIV, Neurocomputing, CSBJ, JEI.
 
