@@ -52,6 +52,37 @@ Knowledge and Information Systems, 2021, JCR Rank Q2, impact factor:2.822
 Multi-level Features Extraction Network with Gating Mechanism for Crowd Counting. 
 
 IET Image Processing, 2021, JCR Rank Q3, impact factor:2.373
+
+- **Xin Zeng**, Shizhe Hu, Huake Wang and Jinna Zhang. 
+
+Joint Contextual Transformer and Multi-scale Information Shared Network for Crowd Counting. 
+
+2022 5th International Conference on Pattern Recognition and Artificial Intelligence (PRAI)
+
+- **Xin Zeng**, Shizhe Hu, Qiang Guo, Yunpeng Wu and Yangdong Ye.
+
+Crowd Counting Using Scale Enhanced Network with Dual Attention Booster. 
+
+2022 5th International Conference on Algorithms, Computing and Artificial Intelligence (ACAI)
+
+- **Xin Zeng**, Huake Wang, Gaoyi Zhu and Yunpeng Wu.
+
+Towards Accurate Crowd Counting via Smoothed Dilated Convolutions and Transformer. 
+
+2023 IEEE 3rd International Conference on Computer Communication and Artificial Intelligence (CCAI)
+
+- **Xin Zeng**, Wanjun Zhang, Huake Wang and Xiaoli Bian.
+
+Learning with Balanced Criss-Cross Attention for Cross-Modality Crowd Counting. 
+
+2023 5th International Conference on Information Technology and Computer Communications (ITCC)
+
+- **Xin Zeng**, Huake Wang, Bo Wang and Yunpeng Wu.
+
+A2SNet: An Adaptive Scale Selection Network for Crowd Counting in the Wild. 
+
+2023 5th International Conference on Big Data and Artificial Intelligence (BDAI)
+
  
 # Research Experience
 
@@ -62,12 +93,14 @@ IET Image Processing, 2021, JCR Rank Q3, impact factor:2.373
 - National Natural Science Foundation of China (Grant No. 62002330)
 
 - Key Scientific Research Project of He'nan Provincial Higher Education Institutions (Grant No. 22B520032)
+  
+- Key Scientific Research Project of He'nan Provincial Higher Education Institutions (Grant No. 23A520057)
 
 # Academic Activities
 
 - Reviewer for Journals: ACM TKDD, CUIV, Neurocomputing, CSBJ, JEI.
 
-- Programme Committee in the Conference: CSAE 2020/2021, MICE2020.
+- Programme Committee in the Conference: CSAE 2020/2021/2023, MICE2020.
 
 # Honors and Awards
 
